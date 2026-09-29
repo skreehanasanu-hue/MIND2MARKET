@@ -1,0 +1,6 @@
+{
+  "name": "Mind2Market Auth & User Management",
+  "description": "Secure user registration, login, and email verification powered by Firebase Authentication with password recovery and profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
